@@ -1,0 +1,8 @@
+package org.system;
+ 
+interface Billable {
+	   
+		double generateBill();
+
+		void getDetails();
+	}
